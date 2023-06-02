@@ -27,7 +27,7 @@
 
 ## Tech Stack <a name="tech-stack"></a>
 
-![NodeJS]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -80,8 +80,6 @@ git clone https://github.com/Avijit826/Backend-Authentication-with-JWT.git
 ```bash
    npm run build
 ```
-
-![](https://res.cloudinary.com/avicoder/image/upload/v1679587154/RTW2.1_qycg8c.png)
 
 # 👤 Find Me <a name="author"></a>
 
