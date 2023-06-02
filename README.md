@@ -59,7 +59,7 @@ git clone https://github.com/Avijit826/Backend-Authentication-with-JWT.git
 2. Open project folder
 
 ```bash
-   cd react-weather-app-master
+   cd Backend-Authentication-with-JWT
 ```
 
 3. Install required packages
